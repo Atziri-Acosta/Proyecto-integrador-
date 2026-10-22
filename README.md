@@ -6,3 +6,8 @@ Si no hay conexión:
 1 Verificar cable
 2 Reiniciar router
 3 Ejecutar ipconfig
+
+Problemas de seguridad
+
+1. Revisar contraseñas
+2. 
