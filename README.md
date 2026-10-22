@@ -11,3 +11,5 @@ Problemas de seguridad
 
 1. Revisar contraseñas
 2. 
+
+Porblemas de red para soporte 
